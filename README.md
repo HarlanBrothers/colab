@@ -1,5 +1,5 @@
 # colab
-Google Colab notebooks
+**Google Colab notebooks**
 
 **ESRGAN** was suddenly broken, likely after an update of one of the dependencies. This version fixes the error.
 
