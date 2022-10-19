@@ -5,4 +5,4 @@
 
 **Watermark** is earier to use.  It now includes automatic download and formatting options.
 
-**Customizable Watermark** supercedes "Watermark." It has the added ability to select fonts from a drop-down menu and specify a color for the watermark.
+**Customizable Watermark** supercedes "Watermark." It is redesigned and now has multiple formatting options including text opacity.
